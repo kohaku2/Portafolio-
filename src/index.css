@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #F2B705;
+  --color-primary-dark: #D98E04;
+  --color-bg-dark: #000000;
+  --color-surface: #1A1A1A;
+  --color-surface-light: #A8A8A8;
+  --color-accent: #FFFFFF;
+  --font-pixel: "Press Start 2P", cursive;
+}
+
+@layer utilities {
+  .pixel-border-thick {
+    box-shadow: 
+      0 -8px 0 0 #000,
+      0 8px 0 0 #000,
+      -8px 0 0 0 #000,
+      8px 0 0 0 #000;
+  }
+
+  .pixel-border-sm {
+    box-shadow: 
+      0 -4px 0 0 #000,
+      0 4px 0 0 #000,
+      -4px 0 0 0 #000,
+      4px 0 0 0 #000;
+  }
+
+  .pixel-border-inset {
+    box-shadow: 
+      inset 0 -4px 0 0 #000,
+      inset 0 4px 0 0 #000,
+      inset -4px 0 0 0 #000,
+      inset 4px 0 0 0 #000;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+      display: none;
+  }
+  .scrollbar-hide {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+  }
+}
+
+/* Custom 8-bit Scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+  border-left: 2px solid #333;
+  border-top: 2px solid #333;
+}
+::-webkit-scrollbar-thumb {
+  background: #F2B705;
+  border: 2px solid #000;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #D98E04;
+}
+
+body {
+  background-color: #000;
+  image-rendering: pixelated;
+}
+
+.crt-screen {
+  position: relative;
+  background: #0a0a0a;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: inset 0 0 40px rgba(0,0,0,0.8);
+  text-shadow: 0 0 2px rgba(242, 183, 5, 0.4);
+}
+
+.crt-screen::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.2) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+  z-index: 20;
+  background-size: 100% 4px, 3px 100%;
+  pointer-events: none;
+}
+
+.crt-screen::after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  background: radial-gradient(circle at center, transparent 0%, rgba(0,0,0,0.25) 100%);
+  pointer-events: none;
+  z-index: 21;
+}
+
+.scanline-pulse {
+  animation: scanline 6s linear infinite;
+  background: linear-gradient(to bottom, transparent, rgba(242, 183, 5, 0.08) 50%, transparent);
+  height: 150px;
+  width: 100%;
+  position: absolute;
+  z-index: 22;
+  pointer-events: none;
+}
+
+@keyframes scanline {
+  0% { top: -150px; }
+  100% { top: 100%; }
+}
+
+.flicker {
+  animation: flicker 0.15s infinite;
+}
+
+@keyframes flicker {
+  0% { opacity: 0.97; }
+  5% { opacity: 0.95; }
+  10% { opacity: 0.9; }
+  15% { opacity: 0.99; }
+  20% { opacity: 0.95; }
+  100% { opacity: 1; }
+}
