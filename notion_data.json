@@ -1,0 +1,196 @@
+{
+  "page": {
+    "object": "page",
+    "id": "6db29236-ddeb-4818-a400-5fe9537b9b7c",
+    "created_time": "2026-04-14T19:29:00.000Z",
+    "last_edited_time": "2026-04-14T19:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+    },
+    "cover": null,
+    "icon": {
+      "type": "emoji",
+      "emoji": "📁"
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "318d6ec8-2726-8066-ba8f-c746cb538fdd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Portafolio",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Portafolio",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Portafolio-6db29236ddeb4818a4005fe9537b9b7c",
+    "public_url": "https://acoustic-hoodie-100.notion.site/Portafolio-6db29236ddeb4818a4005fe9537b9b7c",
+    "archived": false,
+    "request_id": "817f9bca-c87c-4241-854b-450ac13ded6f"
+  },
+  "blocks": {
+    "object": "list",
+    "results": [
+      {
+        "object": "block",
+        "id": "05d8d19f-33bb-403b-8e51-77ecc84676b6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "6db29236-ddeb-4818-a400-5fe9537b9b7c"
+        },
+        "created_time": "2026-04-14T19:29:00.000Z",
+        "last_edited_time": "2026-04-14T19:29:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Secciones",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Secciones",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "342d6ec8-2726-80a1-9e5f-e16b967d7979",
+        "parent": {
+          "type": "page_id",
+          "page_id": "6db29236-ddeb-4818-a400-5fe9537b9b7c"
+        },
+        "created_time": "2026-04-14T19:50:00.000Z",
+        "last_edited_time": "2026-04-14T19:50:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b32d6ec8-2726-81bf-9e0b-0003a6d925c6/84d41cbc-b4b5-4a69-9fbe-31bf4a63f48f/perfil.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664BH766VL%2F20260414%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260414T195933Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFylUjoJZPoDWTwr%2B%2BlSqvuj2%2BAuHjDEt0eI%2BZIoib4hAiEA9%2Fcm%2BI4IAB%2Br7QWpQhcRTKom89yhMsHjByIGeAp9cLsqiAQIlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDBs3FGbS2jH5QGzZLSrcA0movanawDkq85ZawITkVSJVY6appG%2BK%2BV%2BT%2FFQyQIArpXOtiiX2MlB4LVLbJHnRbbJC7gxUlFaYKL1XrtcXK5%2BCRwvkZG25R0hU6bRNlHFcz0pEzNo4ol1AaLOBhusuIMB6aNoq7FSS1e6hYfNZGNV%2FOx0rHomjDHhgT9PPerqrpl2%2FFeFotBYsuaM6ArT3tmC3Ta0IYv0UoSmtnLmVbJAaMCIzG%2FfrI7i%2BABJrA7CHRrU9dpVtHKZhyWLLz6zRu%2FoBRIUe9s9j9CnO4vQkz63A9cw05yurFCCHuI3vwstieK23Cw5LLsY5B22QhT7GnMCvebjTB7D0r%2Bc%2BDSD8Fo1wN%2B6CboMMUkTaiHJzLS4fu0NuppLSZrI3W0UzyC9FHwzWfdl30A%2BArdub2g8IDw%2BBU4q%2BcPE6BMgeyWn2sMNNk786lQEAgA4Wn0Q8MXzSaGPWTeru%2FbiIx9M9%2Fiw8dGQtA0TZf4SAXF1cXdfIF8zlqucY%2BBxm1qvAzgeUpVF5%2BfHfZf7KFHCgLL6md6UxDC8PPfdoYE3JmLiSUIk06m5Ib5VINfVBbt7Ew42Uyl1xcwoeQEvxMrw03oCyjzi6J1%2BPZyLX9WjBgJs1Nm7OgHFHFkykWBdD4HseFq1OMKCo%2Bs4GOqUB46iJUNxrLsERx2vzzeOqEHz7OmkkEqjWW5GP0COvOYXNPgvAJtw9mGt6VwVMAna%2FNqKwVsoKeDGZ7hbcfYooHp%2BwrW%2BpnJBScW6zyeuDlo%2Fs0thYjcReoqZ3YSj4cAC27%2BWDHgIoEklOjGB1TZ3KVH%2F5DWiGrhLgD6qZaT5GFJeJ9XbMUoLqpPvBI99NjfG%2FxifuB2U%2FIENOs9xJPtjBK4glxr7g&X-Amz-Signature=58c2d18a208b0c0d13542522d542a86561eb1e78088ea5a2174af73c4fa99d4a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-04-14T20:59:33.465Z"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "342d6ec8-2726-80d9-9c56-d833a18ef387",
+        "parent": {
+          "type": "page_id",
+          "page_id": "6db29236-ddeb-4818-a400-5fe9537b9b7c"
+        },
+        "created_time": "2026-04-14T19:50:00.000Z",
+        "last_edited_time": "2026-04-14T19:50:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "342d6ec8-2726-8074-b191-dfcc864476d3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "6db29236-ddeb-4818-a400-5fe9537b9b7c"
+        },
+        "created_time": "2026-04-14T19:49:00.000Z",
+        "last_edited_time": "2026-04-14T19:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "block",
+    "block": {},
+    "request_id": "584e1c06-38cf-4d16-8ccc-896198b5857f"
+  }
+}

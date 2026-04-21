@@ -1,0 +1,297 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "page",
+      "id": "342d6ec8-2726-8052-b7d2-f64a79ab3397",
+      "created_time": "2026-04-14T20:42:00.000Z",
+      "last_edited_time": "2026-04-14T20:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "342d6ec8-2726-80ed-8013-e753662cf456"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Etiquetas": {
+          "id": "%5Ef%40r",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Creado": {
+          "id": "tt%5E%3F",
+          "type": "created_time",
+          "created_time": "2026-04-14T20:42:00.000Z"
+        },
+        "Nombre": {
+          "id": "title",
+          "type": "title",
+          "title": []
+        }
+      },
+      "url": "https://www.notion.so/342d6ec827268052b7d2f64a79ab3397",
+      "public_url": "https://acoustic-hoodie-100.notion.site/342d6ec827268052b7d2f64a79ab3397",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "342d6ec8-2726-805f-9a5d-dce54173192d",
+      "created_time": "2026-04-14T20:47:00.000Z",
+      "last_edited_time": "2026-04-14T20:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "342d6ec8-2726-80ed-8013-e753662cf456"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Etiquetas": {
+          "id": "%5Ef%40r",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Creado": {
+          "id": "tt%5E%3F",
+          "type": "created_time",
+          "created_time": "2026-04-14T20:47:00.000Z"
+        },
+        "Nombre": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BIOGRAPHY",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BIOGRAPHY",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/BIOGRAPHY-342d6ec82726805f9a5ddce54173192d",
+      "public_url": "https://acoustic-hoodie-100.notion.site/BIOGRAPHY-342d6ec82726805f9a5ddce54173192d",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "342d6ec8-2726-8074-989a-c5a42c9cd38c",
+      "created_time": "2026-04-14T20:47:00.000Z",
+      "last_edited_time": "2026-04-14T20:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "342d6ec8-2726-80ed-8013-e753662cf456"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Etiquetas": {
+          "id": "%5Ef%40r",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Creado": {
+          "id": "tt%5E%3F",
+          "type": "created_time",
+          "created_time": "2026-04-14T20:47:00.000Z"
+        },
+        "Nombre": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "EDUCATION",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "EDUCATION",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/EDUCATION-342d6ec827268074989ac5a42c9cd38c",
+      "public_url": "https://acoustic-hoodie-100.notion.site/EDUCATION-342d6ec827268074989ac5a42c9cd38c",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "342d6ec8-2726-80ad-9cb4-f2fc396ff0dd",
+      "created_time": "2026-04-14T20:47:00.000Z",
+      "last_edited_time": "2026-04-14T20:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "342d6ec8-2726-80ed-8013-e753662cf456"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Etiquetas": {
+          "id": "%5Ef%40r",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Creado": {
+          "id": "tt%5E%3F",
+          "type": "created_time",
+          "created_time": "2026-04-14T20:47:00.000Z"
+        },
+        "Nombre": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HOBBIES & INTERESTS",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HOBBIES & INTERESTS",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/HOBBIES-INTERESTS-342d6ec8272680ad9cb4f2fc396ff0dd",
+      "public_url": "https://acoustic-hoodie-100.notion.site/HOBBIES-INTERESTS-342d6ec8272680ad9cb4f2fc396ff0dd",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "348d6ec8-2726-8021-8ec0-d03d7c50e4e1",
+      "created_time": "2026-04-20T21:59:00.000Z",
+      "last_edited_time": "2026-04-20T21:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "342d6ec8-2726-80ed-8013-e753662cf456"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Etiquetas": {
+          "id": "%5Ef%40r",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Creado": {
+          "id": "tt%5E%3F",
+          "type": "created_time",
+          "created_time": "2026-04-20T21:59:00.000Z"
+        },
+        "Nombre": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "USER_PROFILE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "USER_PROFILE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/USER_PROFILE-348d6ec8272680218ec0d03d7c50e4e1",
+      "public_url": "https://acoustic-hoodie-100.notion.site/USER_PROFILE-348d6ec8272680218ec0d03d7c50e4e1",
+      "archived": false
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "page_or_database",
+  "page_or_database": {},
+  "request_id": "9a556b31-e06b-4d66-965d-4f218b6c6369"
+}

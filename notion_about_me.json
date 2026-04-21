@@ -1,0 +1,101 @@
+{
+  "BIOGRAPHY": [
+    {
+      "object": "block",
+      "id": "342d6ec8-2726-80a5-ac8d-f1802e85b1ff",
+      "parent": {
+        "type": "page_id",
+        "page_id": "342d6ec8-2726-805f-9a5d-dce54173192d"
+      },
+      "created_time": "2026-04-14T20:47:00.000Z",
+      "last_edited_time": "2026-04-14T20:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "file",
+      "file": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b32d6ec8-2726-81bf-9e0b-0003a6d925c6/816c902d-c08c-4d08-aac2-731457b67d85/BIOGRAPHY.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SXCCWRXW%2F20260414%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260414T205155Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCk%2BFBbKBr4mvNoLnHPje%2FuP1cc%2FymNpOmItGwC4Pz7%2FwIhALpxyZMjdVDNsx5DCcuFUjFIfNeWSYP5LOiPmiRt%2FvvPKogECJT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgzAr%2B0VsHwR9SJWzQAq3AM6YXigqJnisQ04aMU%2BAahrdu36lM%2BiHfUrQ3KLsZiGWvPBZYUFDFeFLa%2BJ%2FyTP%2B91a9FjVBiEAtpwf6nEIzNRH9yknDCITidfY6Xu9hHVf9SB%2BnxgPS2fgGr3Sh%2FcBFrXgu06IT1HLaIPKtEVPGxuH6JBatziLAG7MrqvFDQefzauLXJMdld%2Fqn9wrr5o8%2FplD84cnL1ctRFxOOyAN9aYm56rhZ5RfnZKwV4CZfX7tnjoxcKlTr%2BokqOO%2FM5v74bOO0F4hkLYd%2BNX30yFqpEt4WcKZmMrtep4YecsVi2rupEe19ImuxRYdoXqTA5o0aO9GIJBXVZZXod05UtsdUM%2Fuw%2FUUe2iK8PWs8ufKvGF93ve1PGKEuVc5cdiJ6DEZe3yUAail5XIaUC0w6PWY0nMxa8Ve3kajks8RtNdsYmq248x66cZYEKU8Sp%2FdvxkNPiZ4mHLETHM%2BqX%2BBq%2B8IoQtSSgaeNBP6gSwPVgHKlNnkV7wHBZ0KltxuQq2XLrEx75fI0G7Nwt0XXakncNqg%2B6L9F5EyWTcEMY7n3iTjXEiV7sUixlxgAk7GcEdfdnMix%2FRjlbhnL4yTm4SIdOgRWKMDvu1XAo67SlweUj0yYv4pWlZNUV0qYl3aqje9BDCfqPrOBjqkAc2M3HoL5d7pTEqOa53jQWPGu1xBdXIcnbYx54Avw1ZtQUICPcjLuxCOHvlYb%2BXI2EEjXDzui%2BhYTyC7LsJzWGo7r05099gs4A%2BqBQcZMS6fYZQj5syVxWjwSPPxav3mHtjbkhOrk3gXxl37S8lDztj4A7Yib%2Bq2AbJ62gE7HlWPsDQnDbp2faRZRujSsRd%2F1Hert%2FrZvwXyYxcMxLXPTVdAe8sN&X-Amz-Signature=df65a3c5289949c904a68b36a6091244e52b2c88ad608ab5aba8fb4bc6c9dfd2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-04-14T21:51:55.690Z"
+        },
+        "name": "BIOGRAPHY.txt"
+      },
+      "archived": false
+    }
+  ],
+  "EDUCATION": [
+    {
+      "object": "block",
+      "id": "342d6ec8-2726-80a0-b7eb-cb3bbbcac7de",
+      "parent": {
+        "type": "page_id",
+        "page_id": "342d6ec8-2726-8074-989a-c5a42c9cd38c"
+      },
+      "created_time": "2026-04-14T20:47:00.000Z",
+      "last_edited_time": "2026-04-14T20:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "file",
+      "file": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b32d6ec8-2726-81bf-9e0b-0003a6d925c6/fabfddbf-09d9-4c7c-9dde-7312caa7a492/EDUCATION.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663WEGZ3DP%2F20260414%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260414T205155Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCICfyGlzu%2FXGxMCj3rDpyq3McKaQTjsKlwagSj%2BHU5pOoAiBJbaJhXJ6Mh85aESNkizM5LyWTx0qsI1CPmr1diaW2KSqIBAiU%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMx8xW7FxzYUq0lnqyKtwDTNUHyA%2Fwlnkf%2Fyk0dUYKK4ZDQ4SquVunlBYeiqn1vCT0%2F3GflmqAtKpY87bgH3r3J6bUxx9PTI9XIIdzMVezBQrmMw6XwsseDC%2B3ceTHG48vAwyBMnAMPeO9tJNFmIRWC66mm8NlleZRyc8krPQNgahx0Ln7S8eP9uyLV%2Fo0Okd7IAuZuftk5F02sMMPrP4%2BwkL9p0Gif8hlMtiHGo8f8tTi7M36mEAdyJS7nkEzmctefnve7Fk5z6AyX1luMHX3TjT%2FPDrauUDg46TLnyTEvXxXZew%2FkuOWfiRxmbh39SGMlyVi%2FKQ0Jzom8kVoGYvv7Q3DeVquSlE1jpJWIB0ElrAfakbENRg13H0hbw6AwiPG725B4kQanfb2zyI4WXmvVpQrEXKNW8dyIDp6mjRxEvKRT%2F111qK3UN5m0vhwZbqsynDMA%2B7OEyS3hh5mtiFsZL0bQGJUuJ5y%2FiljuKU03TASGrY6XZtOjcpwzwkDMchhbwZgbhPdxihpirlJom1tL5ptQbtwNLBxPU86EsLKzZaUvhfs2xTU6xEtzfroXe5IjHDRKSdGjGuNlMQ7VD4lgMiHyMDr2eFTfB9NDugWuKq9bznXiTZuTDg3W6Mzcm31nTtbLxeYw4mCR5Awmqj6zgY6pgHf5AuK8TsrJ1vF%2FE4OpeYlCZR0WwNs8GB6eUxaHKBG4MNbem5GBB9Jqyzf5FO84IR4UBiGbzu7wFcin0JozclNCHrkDycRbfrzkYJMnL90aHtPP6MFPG4S9uOe5Yl5whCjHLnLlsteWowp7da%2B%2F%2BPYkTT3gC9TlswE5t07A9%2Fe4W9o%2FldZNjdlZQ7aYZeAcPgsQAVFi991gSeZNQzMZHwLbfxzUH2f&X-Amz-Signature=143dad66c92c24b101c29aa961971e34a5b1a024d137040a7f2a5b16677816ac&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-04-14T21:51:55.957Z"
+        },
+        "name": "EDUCATION.txt"
+      },
+      "archived": false
+    }
+  ],
+  "HOBBIES": [
+    {
+      "object": "block",
+      "id": "342d6ec8-2726-80a3-a85e-f098e15a2b5f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "342d6ec8-2726-80ad-9cb4-f2fc396ff0dd"
+      },
+      "created_time": "2026-04-14T20:47:00.000Z",
+      "last_edited_time": "2026-04-14T20:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8193-9d4e-00021d9e588f"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "file",
+      "file": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b32d6ec8-2726-81bf-9e0b-0003a6d925c6/f76a6245-69e3-4903-9b64-a8a18c80db0c/HOBBIES__INTERESTS.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667HUWLTBR%2F20260414%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260414T205156Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCBu4uTV42nbBiVLnJsEprYF024cYeIR%2FaFxUBYvsYgogIgTH%2B%2Bt6laBC2Oo5y20IWoQY1v5viCS5G4xn2%2FM6isi6EqiAQIlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDOo4pd%2FffrRsRtEH2CrcA1cU3TwtYXzaGY1IQyn5PXrxVgHQmEV7S6ak%2FHw9COhRGrN0nCm%2BYgn80%2FHW9emZmde9rFR387tmc8kZOdIuC0lSvd0gako24xTSl%2F6bqLtjTJ3eT4s0fHXkvEtnw6%2Brg05QXYt%2FJsZV0PKAQlV0ZdbaifhNWll%2F12Qw%2F%2BX14Zq0AqV0QvdHbur0%2BSW3GE7ls8WsvXJBFYyQZ0bO33AHgrN%2BV3RaDuPC4sI8qXddoKa1SOfPMnlO2lmOuiz9XgwlGscYVj8iA%2FdpcQ%2BUtyhZp6K%2BEUI1zCoOqlpWS0EIBJdxtjlePpuRJxe81S80xx9fO5W4fiTEVGFNeIozWnS4gW1acOOj%2F%2FlG3Yme7MLEobA9y4Nl%2FclApb0mqhHS1rMyeuoPo4EumQ%2BQ%2BIcC2wD6aUwl9IoEV6wB39dBrT4nQdDx2pjMflPVWmTXYxNusCeErbgWAFUOHS726NAe52697TjVWb873mGHUYgmh8eod1Te%2FzzDY2X4EwdY26ysqWwsFVwOe1fmawUmXkZ3gYQ3Zs7DkBqJS2yWTyKFZZgMeClrD2X%2B51orzFQLvSgyhNvuNETUfvMzyi7iFmqpX9iNcYrXf%2Fui2%2Fq4vLX6X5xx8gTYH8gVmTAFMdtig3g9MKCo%2Bs4GOqUBcd289o38behua3fFnnF5mkWHt7mTcbBpb5Wcu0HLMMqx7zW%2BQxQADiBTA7DWeN1sJUD8vLrgzMSyIUud3L5DOEuCU8%2FSEw22PW%2BG%2F4DvpIslnmvnX3gqDmIUJUfOXgZoFlgC5LOOvMexfSq9yaERdhtzu2DxMdwGAC4k7WuL79%2BHhE%2BmrQQJbLptbJeVM%2Bh%2B1wfAUfwC6au1a8tieeMXtUA30ItL&X-Amz-Signature=354186c5e35342f0ca9d69b4227b432c46c16e6c8992dd848c9d4a438c690aff&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2026-04-14T21:51:56.142Z"
+        },
+        "name": "HOBBIES & INTERESTS.txt"
+      },
+      "archived": false
+    }
+  ]
+}
